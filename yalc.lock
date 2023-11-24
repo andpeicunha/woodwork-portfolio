@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "tiox-ds": {
+      "signature": "419e8742af8a9eeb22c8a006d82e9d85",
+      "file": true,
+      "replaced": "^0.0.53"
+    }
+  }
+}
